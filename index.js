@@ -9,23 +9,23 @@ var highScorer={
 
 //questions list
 var quiz = [{
-  question: "Which character has a twin?",
+  question: "Which character has a twin: Rachel or Phoebe?",
   answer: "Phoebe"
 },
 {
-  question: "What was the name of Ross's monkey?",
+  question: "What was the name of Ross's monkey: Marcel or Melso or Bonnie?",
   answer: "Marcel"
 },
 {
-  question: "How many sisters did Joey have?",
+  question: "How many sisters did Joey have: 0 or 4 or 7?",
   answer: "7"
 },
 {
-  question: "What is Joey's favorite food?",
+  question: "What is Joey's favorite food?: Pizza or Sandwiches or Cakes",
   answer: "Sandwiches"
 },
 {
-  question: "Whom did Phoebe marry?",
+  question: "Whom did Phoebe marry?: Joey or Mike or Joseph",
   answer: "Mike"
 }]
 
